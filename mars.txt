@@ -1,4 +1,2 @@
 mars is red and cold and dry
-Mars has 2 moons
-moons are names phobos and deimos
-
+Mars has 1 moons
